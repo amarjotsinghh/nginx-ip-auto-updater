@@ -1,7 +1,4 @@
 # nginx-ip-auto-updater
-nginx-ip-auto-updater
-
-Here's a comprehensive `README.md` for your project:
 
 ```markdown
 # Nginx Dynamic IP Container
