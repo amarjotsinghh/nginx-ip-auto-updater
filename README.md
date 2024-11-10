@@ -1,4 +1,4 @@
-# nginx-ip-auto-updater
+# nginx-ip-auto-updater.
 
 ```markdown
 # Nginx Dynamic IP Container
